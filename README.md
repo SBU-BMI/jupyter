@@ -1,2 +1,2 @@
 # jupyter
-playing with jupyter notebooks as a github mediated collaborative environment
+playing with [jupyter notebooks](http://jupyter.org/) as a github mediated collaborative environment
